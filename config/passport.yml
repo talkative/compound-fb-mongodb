@@ -1,0 +1,6 @@
+development:
+  baseURL: 'http://localhost:3000/'
+  facebook:
+    apiKey: "###edit-here###"
+    secret: "###edit-here###"
+    label: "Facebook"

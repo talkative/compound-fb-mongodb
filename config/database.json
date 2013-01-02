@@ -1,0 +1,17 @@
+{ 
+  "development":
+  { 
+       "driver":   "mongodb"
+     , "url":      "mongodb://localhost/compoundBase"
+  }
+  , "test":
+  { 
+       "driver":   "mongodb"
+     , "url":      "mongodb://localhost/compoundBase"
+  }
+  , "production":
+  { 
+      "driver":   "mongodb"
+    , "url":      "mongodb://localhost/compoundBase"
+  }
+}
