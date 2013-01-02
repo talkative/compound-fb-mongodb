@@ -1,9 +1,6 @@
 ## Welcome to CompoundJS
 
-This is a boilerplate with:
-CompoundJS
-Facebook authentication using passport
-MongoDB as database driver
+This is a boilerplate with Facebook authentication using passport and MongoDB as database driver.
 
 ## Installation
 
